@@ -1,0 +1,25 @@
+{
+  "name": "goodjsquestions",
+  "version": "1.0.0",
+  "description": "Some good Js language knowledge testing questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkar-nath/GoodJsQuestions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkar-nath/GoodJsQuestions/issues"
+  },
+  "homepage": "https://github.com/omkar-nath/GoodJsQuestions#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
